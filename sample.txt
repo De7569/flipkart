@@ -1,0 +1,2 @@
+sno sname 
+12  deepa
